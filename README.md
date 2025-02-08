@@ -56,11 +56,15 @@ Additional components:
 - Designed **slicers** to enhance report interactivity.
 - Created an **Information Page** to guide users on navigating charts and slicers.
 
-## Insights
+---
+## Key Findings
 _(To be added later)_
 
 ---
+## Recommendations
+_(To be added later)_
 
+---
 ### Tools Used
 - **Power BI** – Data visualization and dashboard creation.
 - **Python & Power Query** – Data exploration and transformation.
@@ -70,10 +74,18 @@ _(To be added later)_
 ## Conclusion
 This project provides a comprehensive analysis of candy market share, offering valuable insights into manufacturer performance, category trends, and sales distribution. The Power BI report facilitates data-driven decision-making for industry researchers.
 
-## Future Enhancements
-Further refinement of insights and additional interactive features to enhance user experience to be added.
+---
+## Future Scope
+- Enhancing **UX design** for better interactivity.
+- New insights to be addded.
 
 ---
+🔍 For more details, feel free to explore the repository and interact with the Power BI dashboard.
 
+If you have any queries, suggestions, or feedback regarding this project, feel free to reach out.
+
+---
 ### Author
 Shelly Nagar
+ - LinkedIn Profile-[https://www.linkedin.com/in/shellynagar/](https://www.linkedin.com/in/shellynagar/)
+ - Email- [shelly.nagar@outlook.com](mailto:shelly.nagar@outlook.com)
